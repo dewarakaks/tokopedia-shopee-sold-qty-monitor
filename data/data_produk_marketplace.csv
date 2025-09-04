@@ -1,0 +1,21 @@
+SKU,marketplace,nama_produk,harga,qty_terjual,rating,jumlah_review,tanggal,kategori,seller,lokasi_seller
+TKP001,Tokopedia,"iPhone 14 Pro 128GB Deep Purple",15999000,1234,4.8,856,2025-09-04,Smartphone,TechStore Official,Jakarta Pusat
+SHP001,Shopee,"iPhone 14 Pro 128GB Deep Purple",15499000,2156,4.7,1205,2025-09-04,Smartphone,Apple Store Official,Jakarta Selatan
+TKP002,Tokopedia,"Samsung Galaxy S23 Ultra 256GB",16999000,987,4.9,654,2025-09-04,Smartphone,Samsung Official Store,Surabaya
+SHP002,Shopee,"Samsung Galaxy S23 Ultra 256GB",16799000,1543,4.8,892,2025-09-04,Smartphone,Samsung Official,Bandung
+TKP003,Tokopedia,"MacBook Air M2 13-inch 256GB",18999000,456,4.9,234,2025-09-04,Laptop,Apple Authorized Reseller,Jakarta Barat
+SHP003,Shopee,"MacBook Air M2 13-inch 256GB",19299000,321,4.8,178,2025-09-04,Laptop,Mac Center,Tangerang
+TKP004,Tokopedia,"Xiaomi 13 Pro 256GB Ceramic White",9999000,2134,4.7,1456,2025-09-04,Smartphone,Xiaomi Official Store,Medan
+SHP004,Shopee,"Xiaomi 13 Pro 256GB Ceramic White",9799000,3421,4.6,2134,2025-09-04,Smartphone,Mi Store Official,Yogyakarta
+TKP005,Tokopedia,"ASUS ROG Strix G15 RTX 4060",18499000,678,4.8,445,2025-09-04,Laptop Gaming,ASUS Official Store,Jakarta Utara
+SHP005,Shopee,"ASUS ROG Strix G15 RTX 4060",18299000,834,4.7,567,2025-09-04,Laptop Gaming,ROG Store,Semarang
+TKP006,Tokopedia,"Sony WH-1000XM5 Headphones",4999000,1567,4.9,789,2025-09-04,Audio,Sony Official Store,Jakarta Selatan
+SHP006,Shopee,"Sony WH-1000XM5 Headphones",4799000,2123,4.8,1045,2025-09-04,Audio,Sony Center,Bali
+TKP007,Tokopedia,"iPad Pro 12.9-inch M2 128GB",15999000,432,4.9,267,2025-09-04,Tablet,Apple Store,Jakarta Pusat
+SHP007,Shopee,"iPad Pro 12.9-inch M2 128GB",15699000,578,4.8,334,2025-09-04,Tablet,iPad Center,Surabaya
+TKP008,Tokopedia,"Nintendo Switch OLED Model",4799000,2345,4.8,1678,2025-09-04,Gaming,Nintendo Official Store,Bandung
+SHP008,Shopee,"Nintendo Switch OLED Model",4699000,3456,4.7,2234,2025-09-04,Gaming,Game Center,Jakarta Timur
+TKP009,Tokopedia,"Samsung 55-inch QLED 4K TV",12999000,234,4.8,156,2025-09-04,Elektronik,Samsung Electronics,Jakarta Barat
+SHP009,Shopee,"Samsung 55-inch QLED 4K TV",12799000,378,4.9,234,2025-09-04,Elektronik,TV Center Official,Tangerang
+TKP010,Tokopedia,"Canon EOS R6 Mark II Body",34999000,89,4.9,67,2025-09-04,Kamera,Canon Official Store,Jakarta Selatan
+SHP010,Shopee,"Canon EOS R6 Mark II Body",34599000,124,4.8,89,2025-09-04,Kamera,Canon Center,Yogyakarta
